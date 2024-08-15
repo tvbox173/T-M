@@ -27,9 +27,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 ##https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇩  LOKAL  🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR
+https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 http://xtv.ooo:8080/321166661/52816191/350972
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇩  LOKAL  🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -119,7 +120,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/kwfGZ2N.png" group-title="🇮🇩  LOKAL  🇮🇩", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="🇮🇩  LOKAL  🇮🇩", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/NGo9WgJ.png" group-title="🇮🇩  LOKAL  🇮🇩", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -132,9 +136,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AXSZwuJ.png" group-title="🇮🇩  LOKAL  🇮🇩", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="🇮🇩  LOKAL  🇮🇩", CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTINF:-1, group-title="🇮🇩  LOKAL  🇮🇩",MENTARI TV mnc
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
