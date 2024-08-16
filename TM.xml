@@ -11,20 +11,20 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="🇮🇩  LOKAL  🇮🇩",RCTI+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
+https://dl.dropbox.com/scl/fi/so3yf8v38yvb7nhfaml3g/rcti.mp4?rlkey=5eu2nlrqt90brws17a11holdg
  
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="🇮🇩  LOKAL  🇮🇩", MNCTV+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-##https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://dl.dropbox.com/scl/fi/q1s82c5lzg3ggpakw41oy/mnctv.mp4?rlkey=u685fpqmk8ebp869add6az07u
 
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="🇮🇩  LOKAL  🇮🇩", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-##https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇩  LOKAL  🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR
 https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
