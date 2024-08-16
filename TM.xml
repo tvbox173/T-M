@@ -163,6 +163,15 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 ###########  ⚽️  SPORT  ⚽️  ###########
 
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99wmlmrgwwca50z/wwe.png" group-title="⚽️  SPORT  ⚽️", WWE
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1, group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropboxusercontent.com/s/mbz253pyyvycavw/impact.png", IMPACT ! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/twee4scc14he4cc/images%20%281%29.jpeg" group-title="⚽️  SPORT  ⚽️", Fight
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="⚽️  SPORT  ⚽️",beIN Sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
@@ -175,78 +184,6 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="⚽️  SPORT  ⚽️",FS2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99wmlmrgwwca50z/wwe.png" group-title="⚽️  SPORT  ⚽️", WWE
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/mayjdnlae009k1wfl2fzp/vidio.jpeg?rlkey=y12vgp7ao1co176c4itcjtoac&dl=0" group-title="⚽️  SPORT  ⚽️", Live Event 1
-#http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298491
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/mayjdnlae009k1wfl2fzp/vidio.jpeg?rlkey=y12vgp7ao1co176c4itcjtoac&dl=0" group-title="⚽️  SPORT  ⚽️", Live Event 2
-#http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298492
-
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png", Sportstars 1 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://id.mixstreams.top/assets/img/logo/sportstars2-tv.png", Sportstars 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://id.mixstreams.top/assets/img/logo/sportstars3-tv.png", Sportstars 3 HD Liga 1/2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png", Sportstars 4 Line 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV" group-title="⚽️  SPORT  ⚽️" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg", Motorvision TV HD
-http://rr.dens.tv/h/h09/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ss4liga1.png", Sportstars 4 Line 2
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|Referer=https://www.visionplus.id/
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-# KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/royqep3xryxyqtv/soccer.png" group-title="⚽️  SPORT  ⚽️", Soccer Channel
-# EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel-HD
-https://testfunctionlive.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png", FIGHT SPORTS
-https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png", SPOTV
-https://testfunctionlive.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png", SPOTV 2
-https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropbox.com/s/o73p90dpb3lpg8c/Spo%20tv%20now.jpeg", SPOT ON
-
-#EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropbox.com/s/3kpn686faq5sbjp/Spo%20tv%20prime.jpeg",SPOTV Prime
 
 #EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/G37Y21X/ssc1.png", SSC 1 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -313,57 +250,18 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropbox.com/scl/fi/j2bpd06jq9z068o0sjlhg/Intertv.jpeg?rlkey=1nu3js1x3xonb9qgt008zu657&dl=0", INTER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd
 
 #EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropbox.com/scl/fi/h513y7jrskjvgiee7mc4j/Milantv.jpeg?rlkey=iose9y4bvt63nd0fqs60yw8h1&dl=0", MILAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-025/stream.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-025/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/xdbtid8uzg2eswp35hxdh/Galatasary.jpeg?rlkey=9m4zhglifxosxzl1uiv2xpd3q&dl=0" group-title="⚽️  SPORT  ⚽️", GALATASARAY TV
-#http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7875_&extension=ts
-
-#EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://dl.dropbox.com/s/hjxwf15y3a96n69/Screenshot_20230214_150450_Chrome.jpg" group-title="⚽️  SPORT  ⚽️", S.Sports Tennis
-
-#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://dl.dropbox.com/s/5t72knbb5rtas2l/Screenshot_20230214_155136_Chrome.jpg" group-title="⚽️  SPORT  ⚽️",Super Tennis HD
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="⚽️  SPORT  ⚽️", TENNIS CHANNEL HD
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/gcsmv0pia0fluaj74mn5t/True-fight.jpeg?rlkey=b4ek35urux9b58iqf0vca9r0a&dl=0" group-title="⚽️  SPORT  ⚽️", TRUE FIGHT
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⚽️  SPORT  ⚽️", NOWSPORTS 1 Premier
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⚽️  SPORT  ⚽️", NOWSPORTS 2
-
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⚽️  SPORT  ⚽️", NOWSPORTS 3
-
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⚽️  SPORT  ⚽️", NOWSPORTS 4 Tennis
-
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⚽️  SPORT  ⚽️", NOWSPORTS 5
-
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⚽️  SPORT  ⚽️", NOWSPORTS 6 Tennis
-
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⚽️  SPORT  ⚽️", NOWSPORTS 7
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/eima0etg0g98616/Screenshot_20230225_161121_Chrome.jpg" group-title="⚽️  SPORT  ⚽️", MMA TV
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7875_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nbuimwqqvhc4brm/images%20%282%29.jpeg" group-title="⚽️  SPORT  ⚽️", STADIUM
 #https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/c33qsd7uu89mh7o/images%20%281%29.jpeg" group-title="⚽️  SPORT  ⚽️", XFC
-
-#EXTINF:-1, group-title="⚽️  SPORT  ⚽️" tvg-logo="https://dl.dropboxusercontent.com/s/mbz253pyyvycavw/impact.png", IMPACT ! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/twee4scc14he4cc/images%20%281%29.jpeg" group-title="⚽️  SPORT  ⚽️", Fight
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="⚽️  SPORT  ⚽️",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
