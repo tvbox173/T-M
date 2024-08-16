@@ -163,6 +163,17 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 ###########  ⚽️  SPORT  ⚽️  ###########
 
 
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="⚽️  SPORT  ⚽️",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX_SOCCER_PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="⚽️  SPORT  ⚽️",FOX Soccer Plus
+http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="⚽️  SPORT  ⚽️",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="⚽️  SPORT  ⚽️",FS2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99wmlmrgwwca50z/wwe.png" group-title="⚽️  SPORT  ⚽️", WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
@@ -1064,6 +1075,15 @@ http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="TV ANAK",Discovery Family luar
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="TV ANAK",Cartoon Network
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="TV ANAK",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="TV ANAK",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 
 
