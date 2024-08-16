@@ -1051,6 +1051,24 @@ http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282289
 
 
 
+#######  TV ANAK  ######
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="TV ANAK",Disney Channel luar
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="TV ANAK",DisneyJr luar
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV ANAK",DisneyXD luar
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="TV ANAK",Discovery Family luar
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+
+
+ 
+
 ###########   🏠  INDIHOME  🏠  ###########
 
 
@@ -1661,21 +1679,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-chno="412" group-title="💎  VISION+  💎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
+
  
-
-#######  TV ANAK  ######
-
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="TV ANAK",Disney Channel luar
-http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="TV ANAK",DisneyJr luar
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV ANAK",DisneyXD luar
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="TV ANAK",Discovery Family luar
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+ #kids
  
 #EXTINF:-1 tvg-chno="500" tvg-id="My Kidz" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="💎  VISION+  💎",MyKidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
@@ -2993,10 +2999,7 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 tvg-id="LamDongTV.vn" tvg-logo="https://i.imgur.com/lSMoGlv.png" group-title="Undefined",Lam Dong TV (720p)
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-logo="https://i.imgur.com/ZIXtazI.png" group-title="Shop",Lao SV TV (480p)
-https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Shop",Lao-Thai TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="LangSonTV.vn" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="Undefined",Lang Son TV (1080p)
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 tvg-id="NhanDanTV.vn" tvg-logo="https://i.imgur.com/9VyBieF.png" group-title="Undefined",Nhan Dan TV (720p)
@@ -3023,8 +3026,7 @@ https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
 https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SonLaTV.vn" tvg-logo="https://i.imgur.com/MxV9psR.png" group-title="Undefined",Son La TV (1080p)
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
-#EXTINF:-1 tvg-id="TeaTVKhmer.vn" tvg-logo="https://i.imgur.com/u6SMbOQ.jpg" group-title="Shop",Tea TV 2 (720p)
-https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="TeaTV.vn" tvg-logo="https://i.imgur.com/WorbnyD.jpg" group-title="Shop",Tea TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="ThaiNguyenTV.vn" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" group-title="General",Thai Nguyen TV (1080p)
