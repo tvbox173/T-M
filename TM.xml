@@ -12,12 +12,15 @@
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="🇮🇩  LOKAL  🇮🇩",RCTI+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
- 
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+http://iptvtree.net:8080/F18819/6eb39c7d/157591
+
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="🇮🇩  LOKAL  🇮🇩", MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
+http://iptvtree.net:8080/F18819/6eb39c7d/165054
 
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="🇮🇩  LOKAL  🇮🇩", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -30,7 +33,9 @@ http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
 https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 http://xtv.ooo:8080/321166661/52816191/350972
-
+http://iptvtree.net:8080/F18819/6eb39c7d/162138
+#http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
+#http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇩  LOKAL  🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -177,6 +182,36 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX_SOCCER_PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="⚽️  SPORT  ⚽️",FOX Soccer Plus
 http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Astro SuperSport
+http://iptvtree.net:8080/F18819/6eb39c7d/146068
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Astro SuperSport 2
+http://iptvtree.net:8080/F18819/6eb39c7d/157556
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Astro SuperSport 3
+http://iptvtree.net:8080/F18819/6eb39c7d/157557
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Astro SuperSport 4
+http://iptvtree.net:8080/F18819/6eb39c7d/157558
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Astro Cricket
+http://iptvtree.net:8080/F18819/6eb39c7d/157565
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Astro Arena
+http://iptvtree.net:8080/F18819/6eb39c7d/157485
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Astro Arena 2
+http://iptvtree.net:8080/F18819/6eb39c7d/287793
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Eurosport 
+http://iptvtree.net:8080/F18819/6eb39c7d/158353
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",beINSports
+http://iptvtree.net:8080/F18819/6eb39c7d/157561
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",One Sports
+http://iptvtree.net:8080/F18819/6eb39c7d/299947
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",One Sports +
+http://iptvtree.net:8080/F18819/6eb39c7d/290365
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",PBA Rush
+http://iptvtree.net:8080/F18819/6eb39c7d/299950
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Premier Sports
+http://iptvtree.net:8080/F18819/6eb39c7d/299965
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",Premier Tennis
+http://iptvtree.net:8080/F18819/6eb39c7d/276599
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="⚽️  SPORT  ⚽️",TAP Sports
 
 #EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="⚽️  SPORT  ⚽️",FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
