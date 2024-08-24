@@ -32,11 +32,11 @@ $http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
 #EXTINF:-1 tvg-id="" group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
 https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
-$http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-#http://xtv.ooo:8080/321166661/52816191/350972
-#http://iptvtree.net:8080/F18819/6eb39c7d/162138
-#http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
-#http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+http://xtv.ooo:8080/321166661/52816191/350972
+http://iptvtree.net:8080/F18819/6eb39c7d/162138
+http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
+http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
 
 #EXTINF:-1 tvg-id="" group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
