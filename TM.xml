@@ -451,6 +451,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="⚽️  SPORT  ⚽️",Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="⚽️  SPORT  ⚽️",Sony TEN 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="⚽️  SPORT  ⚽️",Sony TEN 2 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="⚽️  SPORT  ⚽️",Sony TEN 3 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="⚽️  SPORT  ⚽️",Sony TEN 4 HD
+http://xtv.ooo:8080/MansoorWapda/258741/351034
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="⚽️  SPORT  ⚽️",Sony TEN 5 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
 #EXTINF:-1 group-title="⚽️  SPORT  ⚽️" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/G37Y21X/ssc1.png", SSC 1 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
