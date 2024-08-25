@@ -141,7 +141,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/NGo9WgJ.png" group-title="🇮🇩  INDONESIA  🇮🇩", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="1🇮🇩  INDONESIA  🇮🇩" tvg-id="MagnaChannel.id" tvg-logo="https://i.ibb.co/5MZqSWf/Magna-Channel.png",MAGNA CHANNEL
+#EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-id="MagnaChannel.id" tvg-logo="https://i.ibb.co/5MZqSWf/Magna-Channel.png",MAGNA CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
