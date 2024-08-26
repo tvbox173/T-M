@@ -3447,7 +3447,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
+
 ###########   🎞️  MOVIE  🎞️  ###########
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="🎞️  MOVIE  🎞️",0.HBO Trans Vision
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3713,14 +3716,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="🎞️  MOVIE  🎞️",HBO Signature (Maxstream)
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="🎞️  MOVIE  🎞️",HBO Signature
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.12.2
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-#EXTINF:-1 tvg-id="AXN - [Channel 154].id" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="🎞️  MOVIE  🎞️", AXN ðŸ‡ºðŸ‡¸
+#EXTINF:-1 tvg-id="AXN - [Channel 154].id" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="🎞️  MOVIE  🎞️", AXN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3737,7 +3740,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 group-title="🎞️  MOVIE  🎞️" tvg-id="Bioskop Indonesia" tvg-logo="https://images.indihometv.com/tvposter/bioskopindonesia.png", BIOSKOP INDONESIA ðŸ”´ 
+#EXTINF:-1 group-title="🎞️  MOVIE  🎞️" tvg-id="Bioskop Indonesia" tvg-logo="https://images.indihometv.com/tvposter/bioskopindonesia.png", BIOSKOP INDONESIA
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-D1Pgac0K19qoPmcGR_5Qc/ts
 
 #EXTINF:-1 xui-id="32" tvg-id="" tvg-name="Flik" tvg-logo="http://103.127.99.190:80/images/a2d8e17d59bb17010217de3c539c0fa8.png" group-title="🎞️  MOVIE  🎞️",Flik
@@ -3849,6 +3852,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
 
 
 
