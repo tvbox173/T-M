@@ -3447,9 +3447,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
-#EXTINF:-1 group-title="🌏  PENGETAHUAN  🌏" tvg-id="Animal Planet HD World"  tvg-logo="https://i.ibb.co/tpLZdK6/animalplanet.png", ANIMAL PLANET
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-
 #EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/8zzNQzb/bbcearth.png" group-title="🌏  PENGETAHUAN  🌏", BBC EARTH
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3461,22 +3458,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FY4pj9S/curiosity.png" group-title="🌏  PENGETAHUAN  🌏", CURIOSITY
-https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Wnb24Mg/curiositych.png" group-title="🌏  PENGETAHUAN  🌏", CURIOSITY CHANNEL
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nnf5htr/discoch.png" group-title="🌏  PENGETAHUAN  🌏", DISCOVERY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d37f084ced3f48cd8e7ab2250f26030d:7bae03ffb6f8a3539e8f93c0675e9c0a
-https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
-
-
 
 #EXTINF:-1 group-title="🌏  PENGETAHUAN  🌏" tvg-id="Discovery HD World"  tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
@@ -3532,10 +3513,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/zVTNdBP/lovenature.png" group-title="🌏  PENGETAHUAN  🌏", LOVE NATURE ðŸ‡¨ðŸ‡¦
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/zVTNdBP/lovenature.png" group-title="🌏  PENGETAHUAN  🌏", LOVE NATURE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE 4K" tvg-logo="https://i.ibb.co/T0hVvvF/lovenature4k.png" group-title="🌏  PENGETAHUAN  🌏", LOVE NATURE 4K ðŸ‡¨ðŸ‡¦
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE 4K" tvg-logo="https://i.ibb.co/T0hVvvF/lovenature4k.png" group-title="🌏  PENGETAHUAN  🌏", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NASA Television" tvg-name="NASA" tvg-logo="https://i.ibb.co/QnSvkmt/nasa.png" group-title="🌏  PENGETAHUAN  🌏", NASA
