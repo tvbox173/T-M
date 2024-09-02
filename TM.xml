@@ -6177,12 +6177,6 @@ https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://i.imgur.com/wOIaqg7.png",TV5 HD
 https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang Thai
-https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://iptv36.my.to/logo/tvb.png" group-title="Undefined",TVB Thai
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MVMall Plus.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_y_KDQGSdgJs2IA7v5Xo6tVk4ZyjcF9nCf1.png" group-title="Shop",MVMall Plus
-https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://iptv36.my.to/logo/tptv.png",TPTV
 https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="🇹🇭  THAILAND  🇹🇭",NBT 11 Central
@@ -6193,32 +6187,18 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunk
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
 #EXTINF:-1 tvg-id="NBT11South.th" tvg-logo="https://imgur.com/4K22fqQ.png" group-title="🇹🇭  THAILAND  🇹🇭",NBT 11 South
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="Movies" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangorn
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://iptv36.my.to/logo/tnn16.png",TNN 16
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiChaiyo.th" tvg-logo="https://i.imgur.com/uOfb3y1.png" group-title="Music",Thai Chaiyo
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://i.imgur.com/m4nPR2L.png",JKN 18
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MVMall Home.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/112_y_15JWUfg6Psv0yKEuY7a9DmMNHz23ZlrF.jpg" group-title="Shop",MVMall Home
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
-#EXTINF:-1 tvg-id="MVMall Healthy.th" tvg-name="MVMall Healthy" group-title="Shop" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_y_dXKD7lFMvczOB32q4wJ1GjHbLtySYk9R.png",MVMall Healthy
-https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel8.th" group-title="Movies" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://i.imgur.com/h3TY38F.png",Nation TV
 https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://iptv36.my.to/logo/workpoint.png",Workpoint TV
 https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://i.imgur.com/uARba6N.png",GMM 25
 https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MVMall Trend.th" tvg-name="MVMall Trend" group-title="Shop" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/42_y_MEQW4wbyedpLSGACI86uoJ7cDisaqYhK.jpg",MVMall Trend
-https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://iptv36.my.to/logo/ch8.png",CH 8
 https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon Club" tvg-name="Cartoon Club" group-title="Kids" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
-https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://iptv36.my.to/logo/mono29.png",MONO 29
 https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="🇹🇭  THAILAND  🇹🇭" tvg-logo="https://i.imgur.com/ejPxGmU.png",MCOT HD
