@@ -453,6 +453,50 @@ https://rodjatv.com/rodjatv/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="MuslimTV.Id" tvg-logo="https://cdn.ksa.my.id/muslimtv.png" group-title="📓  RELIGI  📓",Muslim TV
+https://melon-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="AlQuranAlKareem.Id" tvg-logo="https://cdn.ksa.my.id/mekkah.png" group-title="📓  RELIGI  📓",Al Quran Al Kareem
+https://melon-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="TV9.Id" tvg-logo="https://cdn.ksa.my.id/tv9.png" group-title="📓  RELIGI  📓",TV9
+https://melon-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="TVMu.Id" tvg-logo="https://cdn.ksa.my.id/tvmu.png" group-title="📓  RELIGI  📓",TVMU
+https://melon-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="TawafTV.Id" tvg-logo="https://cdn.ksa.my.id/tawaf.png" group-title="📓  RELIGI  📓",Tawaf TV
+https://melon-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="📓  RELIGI  📓" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png",EWTN
+https://melon-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="📓  RELIGI  📓" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png",LIFE
+https://melon-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="📓  RELIGI  📓" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
+https://melon-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="📓  RELIGI  📓" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
+https://melon-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd|referer=https://www.visionplus.id
 
 
 
@@ -6746,204 +6790,6 @@ https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="MuslimTV.Id" tvg-logo="https://cdn.ksa.my.id/muslimtv.png" group-title="Religi",Muslim TV
-https://melon-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="AlQuranAlKareem.Id" tvg-logo="https://cdn.ksa.my.id/mekkah.png" group-title="Religi",Al Quran Al Kareem
-https://melon-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TV9.Id" tvg-logo="https://cdn.ksa.my.id/tv9.png" group-title="Religi",TV9
-https://melon-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TVMu.Id" tvg-logo="https://cdn.ksa.my.id/tvmu.png" group-title="Religi",TVMU
-https://melon-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TawafTV.Id" tvg-logo="https://cdn.ksa.my.id/tawaf.png" group-title="Religi",Tawaf TV
-https://melon-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png",EWTN
-https://melon-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png",LIFE
-https://melon-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
-https://melon-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
-https://melon-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd|referer=https://www.visionplus.id
-
-========================================================================
-                              KNOWLEDGE
-========================================================================
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=clearkey
-#EXTINF:-1 tvg-id="HBO.Id" tvg-logo="http://xemtruyenhinh.xyz/image/love-nature.png" group-title="Knowledge",Love Nature Perbaikan
-http://185.188.188.235/live/lovenature/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Besmart.Id" tvg-logo="https://cdn.ksa.my.id/besmart.png" group-title="Knowledge",Besmart Perbaikan
-https://melon-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="BBCEarth.Id" tvg-logo="https://cdn.ksa.my.id/bbcearth.png" group-title="Knowledge",BBC Earth
-https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=clearkey
-#EXTINF:-1 tvg-id="AnimalPlanet.Id" tvg-logo="https://cdn.ksa.my.id/animalplanet.png" group-title="Knowledge",Animal Planet
-https://anutv.xyz/known/animal_planet.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="NationalGeographic.Id" tvg-logo="https://cdn.ksa.my.id/ngc.png" group-title="Knowledge",Nat Geo Channel
-https://melon-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="NatGeoWild.Id" tvg-logo="https://cdn.ksa.my.id/natgeowild.png" group-title="Knowledge",Nat Geo Wild
-https://melon-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="History.Id" tvg-logo="https://cdn.ksa.my.id/history.png" group-title="Knowledge",History
-https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="CrimeInvestigation.Id" tvg-logo="https://cdn.ksa.my.id/crimeinvestigation.png" group-title="Knowledge",Crime Investigation
-https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="CGTNDocumentary.Id" tvg-logo="https://cdn.ksa.my.id/cgtndoc.png" group-title="Knowledge",CGTN DOCUMENTARY
-https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|referer=https://www.visionplus.id
-
-
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery science Channel 
-https://anutv.xyz/known/discovery_science.m3u8
-
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery turbo Channel 
-https://anutv.xyz/known/discovery_turbo.m3u8
-
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Investigation discovery
-https://anutv.xyz/known/investigation_discovery.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="Knowledge",Global Trekker
-https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|referer=https://www.visionplus.id
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="Knowledge",Dmax 
-https://anutv.xyz/known/DMAX.m3u8
-
-========================================================================
-                               LifeStyle
-========================================================================
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/hgtv.png" group-title="LIFESTYLE & ENTERTAINMENT",HGTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://php.mylivestream.my.id/php/home215.m3u8?id=11804
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/dunialain.png" group-title="LIFESTYLE & ENTERTAINMENT",DUNIA LAIN
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://php.mylivestream.my.id/php/home215.m3u8?id=11828
-
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be3daa5c58d6/20200924035226.png",Eat N Go
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-logo="https://i.ibb.co/tYYjqBn/download-20-modified-1.png",Okezone TV
-https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-logo="https://i.ibb.co/YTsdM4k/63e5a2ae-072f-4ebd-a269-2e8584d33b1f-mq-modified.png",Lifetime
-https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-logo="https://i.ibb.co/n1YJFTK/channel-86-modified.png",Ent
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-logo="https://i.ibb.co/CMnfgsL/channel-96-modified.png",Celebrities TV
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-logo="https://i.ibb.co/MG4ggLX/download-20-modified.png",OKTV
-https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-logo="https://i.ibb.co/tJZmqKL/channel-164-modified.png",ONE
-https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-logo="https://i.ibb.co/kM895zc/download-21-modified.png",Vision Prime
-https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-#EXTINF:-1 tvg-id="3602" tvg-name="GEM" tvg-logo="https://i.imgur.com/rGTHbAM.png" group-title="LIFESTYLE & ENTERTAINMENT",GEM Asia
-https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
-
-#EXTINF:-1 tvg-id="FashionTV" tvg-name="FashionTV" tvg-logo="https://i.postimg.cc/wxJYVNnt/ftv.png"  group-title="LIFESTYLE & ENTERTAINMENT",Fashion TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dcubmxudin.vision-e5a.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
-
-#EXTINF:-1 group-title="LIFESTYLE & ENTERTAINMENT" tvg-id="KPlus.MACAN" tvg-name="Kplus" tvg-logo="https://i.ibb.co/S04S9jG/download-31-modified.png",K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/one.png" group-title="LIFESTYLE & ENTERTAINMENT",SONY ONE 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/gem.png" group-title="LIFESTYLE & ENTERTAINMENT",SONY GEM
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://php.mylivestream.my.id/php/home91.m3u8?id=3280
-
-
 
 ========================================================================
                                VIETNAM
@@ -7200,30 +7046,6 @@ https://gdriveplayer.to/hlsplaylist.php?idhls=Q1FuWkhsN294ZURZaXVscG55TklseTgwRj
 #EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Encanto (2021)
 https://gdriveplayer.to/hlsplaylist.php?idhls=Z2FLWUFqSVpGTi9FL0pQTzNzcnBIV3RCRlpMRU1WeHB5N2Zjc0x3YW5lczkvR1JnTFN3aGgybERvSVQvUlFkMw==.m3u8
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",PENDEKAR RAJAWALI 1994
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_429430549900749_3381994171169629544_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM4MSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTI4MTI0MDE4MjM4MzY2fQ%3D%3D&_nc_ohc=wvg9Dg1P1EwQ7kNvgFoE9c5&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYArEXm5_zKKYg7XoQbRRYdvaDCHgtKdPy8KjV-RxZ6ggA&oe=66DA16BE
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 1
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_374633236227962_6043951830893854720_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjU1NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNDk1ODQ3NDU0NzI5MzR9&_nc_ohc=E1-SOfPgS2kQ7kNvgErBqFR&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDOZEyxip-UWkO4eTwV5ZgPdOGITHmMmiBSN2VE_A3_Hg&oe=66D63424
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 2
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_364511540578336_2200736024085135360_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ0NiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNDk2MjQ0NjIxMzU2Mjl9&_nc_ohc=0eRg30BFzGIQ7kNvgHHKT2R&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAAHuZuQNwhigpNG1mM-fTKq56Oc2TBl1_WV8B7LoxgpA&oe=66D624CD
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 5
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_1704260963016264_6177259292115075072_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc2MDA4NjIwMDQ2NTN9&_nc_ohc=-hNA44WpqPIQ7kNvgGsexJS&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBgBSMe3Sdanvnrl9yCAKECzQa1io8rYMr3RMu_IeSasw&oe=66D629B2
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 6
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_527311607704684_5253250963040370688_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ0MiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc3OTMxMDUzMTg3NjJ9&_nc_ohc=L_4eTyE1qgMQ7kNvgG6Vi4Q&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDmGazJV9NvlwvNVFvmZtK2FXqBjfiYKsyZjevBlI7q8w&oe=66D625A7
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 7
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_2110624409178881_1582456923272249344_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUwMCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc4Mjk0ODUzMTUxMjR9&_nc_ohc=kLx9ReGhdGoQ7kNvgEwAgE1&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAWlEiAnBx7r4Iu8SbQXFJtpE_cTRVjJV8E9RsRC0qZ9w&oe=66D63C1F
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 8
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_968602396675978_3645527357051109376_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ2NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc4NTA2MjE5Nzk2Nzd9&_nc_ohc=KPDXYI9KMYkQ7kNvgEryhYi&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBla8xbwEA3UMD3UYduVEc-iKZacLnfhkvMaKw5pkucCA&oe=66D63535
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 11
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_900286873442270_5104428198750322688_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjU3NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNTM4ODk5MzgzNzU3NDh9&_nc_ohc=-XVACg3shokQ7kNvgE8B3pk&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYA9jjwVy3aIaYX6S5lpNIUnNuMENzVD-gVYnoZ2Qss16A&oe=66D63744
-
 #EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",PINOKIO
 https://www.googleapis.com/drive/v3/files/1VoXOzHijxYu8ETopVoEyOn1T0oZ3YgOM?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
@@ -7309,6 +7131,30 @@ https://www.googleapis.com/drive/v3/files/1gGAJVhk0Dlf_wMV6fxtmwEwrUWjDiGk8?alt=
 
 #EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Spider-Man (2002
 https://gdriveplayer.to/hlsplaylist.php?idhls=NWdhaDBIcGRPMTZEQ1cwT1BRQ3N3M1RxWm5DeVpNN3JKc2xldHBwYjJ4empWRXovcVc4N0xyZU9FKzBwOTAxbg==.m3u8
+
+#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",PENDEKAR RAJAWALI 1994
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_429430549900749_3381994171169629544_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM4MSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTI4MTI0MDE4MjM4MzY2fQ%3D%3D&_nc_ohc=wvg9Dg1P1EwQ7kNvgFoE9c5&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYArEXm5_zKKYg7XoQbRRYdvaDCHgtKdPy8KjV-RxZ6ggA&oe=66DA16BE
+
+#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 1
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_374633236227962_6043951830893854720_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjU1NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNDk1ODQ3NDU0NzI5MzR9&_nc_ohc=E1-SOfPgS2kQ7kNvgErBqFR&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDOZEyxip-UWkO4eTwV5ZgPdOGITHmMmiBSN2VE_A3_Hg&oe=66D63424
+
+#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 2
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_364511540578336_2200736024085135360_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ0NiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNDk2MjQ0NjIxMzU2Mjl9&_nc_ohc=0eRg30BFzGIQ7kNvgHHKT2R&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAAHuZuQNwhigpNG1mM-fTKq56Oc2TBl1_WV8B7LoxgpA&oe=66D624CD
+
+#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 5
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_1704260963016264_6177259292115075072_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc2MDA4NjIwMDQ2NTN9&_nc_ohc=-hNA44WpqPIQ7kNvgGsexJS&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBgBSMe3Sdanvnrl9yCAKECzQa1io8rYMr3RMu_IeSasw&oe=66D629B2
+
+#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 6
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_527311607704684_5253250963040370688_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ0MiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc3OTMxMDUzMTg3NjJ9&_nc_ohc=L_4eTyE1qgMQ7kNvgG6Vi4Q&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDmGazJV9NvlwvNVFvmZtK2FXqBjfiYKsyZjevBlI7q8w&oe=66D625A7
+
+#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 7
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_2110624409178881_1582456923272249344_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUwMCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc4Mjk0ODUzMTUxMjR9&_nc_ohc=kLx9ReGhdGoQ7kNvgEwAgE1&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAWlEiAnBx7r4Iu8SbQXFJtpE_cTRVjJV8E9RsRC0qZ9w&oe=66D63C1F
+
+#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 8
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_968602396675978_3645527357051109376_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ2NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc4NTA2MjE5Nzk2Nzd9&_nc_ohc=KPDXYI9KMYkQ7kNvgEryhYi&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBla8xbwEA3UMD3UYduVEc-iKZacLnfhkvMaKw5pkucCA&oe=66D63535
+
+#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 11
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_900286873442270_5104428198750322688_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjU3NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNTM4ODk5MzgzNzU3NDh9&_nc_ohc=-XVACg3shokQ7kNvgE8B3pk&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYA9jjwVy3aIaYX6S5lpNIUnNuMENzVD-gVYnoZ2Qss16A&oe=66D63744
 
 
 
