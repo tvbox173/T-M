@@ -5159,151 +5159,228 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
  ########## ▶️  FILM DUB INDO  ▶️ ##########
 
-#EXTINF:-1 type="movie" group-title="AVATAR" tvg-logo="https://i.imgur.com/djgxIhT.jpeg" group-title="▶️  FILM DUB INDO ▶️", AVATAR (2009)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg" group-title="▶️  FILM DUB INDO ▶️",AVATAR (2009)
 https://www.googleapis.com/drive/v3/files/1TJqEg6uhJ3GaHkA3p0Up4aEzH-fHCkXG?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1 type="movie" group-title="AVATAR" tvg-logo="https://i.imgur.com/BXnJa8e.jpeg" group-title="▶️  FILM DUB INDO ▶️", AVATAR : THE WAY OF WATER (2022)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/54/Avatar_The_Way_of_Water_poster.jpg" group-title="▶️  FILM DUB INDO ▶️",AVATAR : THE WAY OF WATER (2022)
 https://www.googleapis.com/drive/v3/files/16_Mi-0tUHvDC3Ef2dbsVPCqyTnrQz-Tx?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Rampage (2018)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Rampage_Soundtrack_Album_cover_2018.jpg/220px-Rampage_Soundtrack_Album_cover_2018.jpg" group-title="▶️  FILM DUB INDO  ▶️",Rampage (2018)
 https://www.googleapis.com/drive/v3/files/13SoLGr0VHXHp5VcZp_JaGHdpPMiGQIVv?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Garfield: A Tale of Two Kitties (2006) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSXLdTTp57m8QBenJ2lHWm9NSIlfv_cNJVDqTT0mKC42KWlZqoBhHVGI&s=10" group-title="▶️  FILM DUB INDO  ▶️",Garfield: A Tale of Two Kitties (2006) 
 https://www.googleapis.com/drive/v3/files/1NPTtKLXaki-V7k4-IjOhCP_ziba8Uvvk?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Garfield (2004)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Garfield_ver6.jpg" group-title="▶️  FILM DUB INDO  ▶️",Garfield (2004)
 https://www.googleapis.com/drive/v3/files/1ezzAmiIqETftoXzbUwoviztK91kUBMBf?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",CASPER (1995)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Casper_in_Live-Action.jpg" group-title="▶️  FILM DUB INDO  ▶️",CASPER (1995)
 https://www.googleapis.com/drive/v3/files/1aiCexaN5XoUqokCaTPLqH46rWc8OkSof?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",BRAVE (2011)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/96/Brave_Poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",BRAVE (2011)
 https://www.googleapis.com/drive/v3/files/1eJb9O-aVo67ELr2-_CvusE-6UOBksSyB?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Angry Birds 2016
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/The_Angry_Birds_Movie_Soundtrack.jpg/220px-The_Angry_Birds_Movie_Soundtrack.jpg" group-title="▶️  FILM DUB INDO  ▶️",Angry Birds 2016
 https://ll1088fn.cloudatacdn.com/u5kj35w3k7e3sdgge6rqgzamcand4uqb2stywvelm7uch76fekg7ka2u3p7a/aehmobfnhp~l1BjnTBPgb?token=c372066opki0c1pyet9nd7k7&expiry=1725243176996
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",SpongeBob SquarePants Movie (2004)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/97/Spongebob_squarepants_ver8.jpg" group-title="▶️  FILM DUB INDO  ▶️",SpongeBob SquarePants Movie (2004)
 https://gdriveplayer.to/hlsplaylist.php?idhls=OE1zYW94ZWRaWjQ3VFVwTHFNS0tuYjBrV3g4Y0JyS004OTRIYmpTY3Q5TExwa1RjYURkMDcyR0kzeGhhenVyVw==.m3u8
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Tom & Jerry (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Tom_%26_Jerry_%28Official_2021_Film_Poster%29.png" group-title="▶️  FILM DUB INDO  ▶️",Tom & Jerry (2021)
 https://www.googleapis.com/drive/v3/files/1AHvZBExDxuuSX9K_r9I8AicxWeWdOglf?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Elemental (2023)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQifV1xCnOF1JTJl4_xgMWaN-8z3TOZMpBL8_841WVW5j_8vcssov57G94&s=10" group-title="▶️  FILM DUB INDO  ▶️", The Super Mario Bros
+https://gdriveplayer.to/hlsplaylist.php?idhls=djRWRVRZaFVWS1VXdjJwQzJVRy83Mi9XaERsSEhtRU9RWFlvRm9Ya0VkQ29SNHlWaEVaM2o0RHdjT0xSRE9nQQ==.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Elemental_final_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Elemental (2023)
 https://gdriveplayer.to/hlsplaylist.php?idhls=Q1FuWkhsN294ZURZaXVscG55TklseTgwRjVqV1ZTZ2h5M1JtNFJ0ejZIY2lFd0IwVEVCb1NuNmVwMVYrRmppbQ==.m3u8
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Encanto (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/83/Encanto_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Encanto (2021)
 https://gdriveplayer.to/hlsplaylist.php?idhls=Z2FLWUFqSVpGTi9FL0pQTzNzcnBIV3RCRlpMRU1WeHB5N2Zjc0x3YW5lczkvR1JnTFN3aGgybERvSVQvUlFkMw==.m3u8
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",PINOKIO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/Pinocchio_2022_film_poster.png" group-title="▶️  FILM DUB INDO  ▶️",PINOKIO
 https://www.googleapis.com/drive/v3/files/1VoXOzHijxYu8ETopVoEyOn1T0oZ3YgOM?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Doraemon: Nobita no uchuu eiyuuki (2015)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e1/Doraemon_2015.jpg" group-title="▶️  FILM DUB INDO  ▶️",Doraemon: Nobita no uchuu eiyuuki (2015)
 https://www.googleapis.com/drive/v3/files/1a6SOUmnMg99d4JZ473Fzzj8NsBaFLait?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Doraemon: Stand By Me 2  (2020)
-https://a-delivery23.mxcontent.net/v2/3ng0j776bp0knl.mp4?s=DChI0IisQrYHlVDd8D2Tnw&e=1725259088&_t=1725241059
-https://acefile.co/service/play/103639138/b73450f197a3674c3a26fdeda2edaf8ced5acb33/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Stand_by_Me_Doraemon_2.jpg" group-title="▶️  FILM DUB INDO  ▶️",Doraemon: Stand By Me 2  (2020)
+#https://a-delivery23.mxcontent.net/v2/3ng0j776bp0knl.mp4?s=DChI0IisQrYHlVDd8D2Tnw&e=1725259088&_t=1725241059
+#https://acefile.co/service/play/103639138/b73450f197a3674c3a26fdeda2edaf8ced5acb33/
 https://acefile.co/service/play/107999549/185a2adde0a08e578481e2ddb30c33d69d526411/
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Doraemon: the Movie: Nobita's Little Star Wars (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0e/Little_Star_Wars_2021.jpg" group-title="▶️  FILM DUB INDO  ▶️",Doraemon: the Movie: Nobita's Little Star Wars (2021)
 https://www.googleapis.com/drive/v3/files/1epMiczaFRG3pGkoqDR_hLjFnefjkyn5u?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Doraemon: Nobita and the New Steel Troops: Winged Angels (2011)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Doraemon_Nobita_and_the_New_Steel_Troops.jpg/220px-Doraemon_Nobita_and_the_New_Steel_Troops.jpg" group-title="▶️  FILM DUB INDO  ▶️",Doraemon: Nobita and the New Steel Troops: Winged Angels (2011)
 https://www.googleapis.com/drive/v3/files/1fNjGfW_Jnd0O842T3qv4k2-_1iNPB1Si?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto the Movie-The Last (2015)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/26/Moana_Teaser_Poster.jpg/220px-Moana_Teaser_Poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",MOANA
+https://www.googleapis.com/drive/v3/files/14zQ2FYTNml_0NXj1xmaWvNJeXPg4t2W7?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/be/Epic_%282013_film%29_poster.jpg/220px-Epic_%282013_film%29_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",EPIC
+https://gdriveplayer.to/hlsplaylist.php?idhls=eFpoOTMwNTdkdkFxcjkzTm4vQU1GMkRSL2gzUmlEUnBMWUg4WEs2Uy96bVBXb3FqeC9iRzc3cDRwT1lPaHkwNg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3e/Finding_Dory.jpg" group-title="▶️  FILM DUB INDO  ▶️",FINDING DORY
+https://www.googleapis.com/drive/v3/files/1O0YyYPt6Arel6vIRCJOhYExMxgbDwodu?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Nemo-poster2.jpg" group-title="▶️  FILM DUB INDO  ▶️",FINDING NEMO
+https://www.googleapis.com/drive/v3/files/1lYYzWlkGBZiaHoXb9vOKMtGbSTvYgSUi?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT685xiBa7DvsnHVlvZ_4oYW6BnomF-dLIiXkkycjGKZrPj9HeAteqoGMQf&s=10" group-title="▶️  FILM DUB INDO  ▶️",Friends : Naki On The Monster
+https://acefile.co/service/play/102239421/4b164e4b265ac151dd6929947e30ba836424a64f/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnu5j3J7feyqIVn4BEzrokM8cDvatW-MLMcw&usqp=CAU" group-title="▶️  FILM DUB INDO  ▶️",FROXEN
+https://acefile.co/service/play/103774949/b57e5964a1c3649c86f1ffe0aacf3bbd3540231e/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6d/Frozen_II_%282019_poster%29.jpg" group-title="▶️  FILM DUB INDO  ▶️",FROZEN 2
+https://p302kl.cloudatacdn.com/u5kj7weur3e3sdgge6wacp2plpsb3owvmbcfyx2uscynlubdkkxcdkvaweiq/qibx3gdgxe~xwUbHWlGRX?token=ipjohonr7oj0odmkkzpn4ba7&expiry=1725470745399
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/2b/Gedo_Senki_DVD_cover.jpg/300px-Gedo_Senki_DVD_cover.jpg" group-title="▶️  FILM DUB INDO  ▶️",GEDO SENKI
+https://www.googleapis.com/drive/v3/files/11QQMr7MMsGX4_DZuQYhvxB-uP0jznJXx?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/TheLastNarutomovie.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto the Movie-The Last (2015)
 https://www.googleapis.com/drive/v3/files/1TfBED-yCtYA7ah9KM3Zr7jBrxJS-vBuX?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto the Movie 2: Legend of the Stone of Gelel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Naruto_the_Movie_-_Legend_of_the_Stone_of_Gelel.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto the Movie 2: Legend of the Stone of Gelel
 https://www.googleapis.com/drive/v3/files/1Yg_Dtg0K-AdL0sIFNx2puziR9AOaSHyn?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 401 402 403 404
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_519718133793861_8428883649643040973_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM5OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNDMyMDM0NDc3NDg0Mzg0fQ%3D%3D&_nc_ohc=rDfR7-jiZG4Q7kNvgGQm_zQ&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCcvaGrqoJgZVy-_RifIKKeTsd9fn30t33ZdBI7aogdfw&oe=66DAFDDA
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 322 323 324
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1545657863028894_7561662994218338308_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ1MywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMjA2NzExMjQwMzM0MTM3fQ%3D%3D&_nc_ohc=G5GqC9NOfXMQ7kNvgF1wf1y&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDVUZBHQYY4Wm_0BvgBUDLt5Ff6NmxCQMFJoaW5xHgw3w&oe=66DAEE8D
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_795698526044403_599979870455523253_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ2OCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMDEzNTQ5Nzg2ODE5NDcwfQ%3D%3D&_nc_ohc=_Qsy-adUK2YQ7kNvgFiNJCh&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCxhdnfTD-DRzyMaOtARsh0ZqzMgdB3n6-YwmIvikej1w&oe=66DAEA64
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 298 & 299
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_453457010844969_1105107001608425077_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ1NywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNTM1OTQyMjgwMzI5Njg0fQ%3D%3D&_nc_ohc=-rO9K1P5t2gQ7kNvgE37RfF&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAGekz11-JF1v7VS6hzLm9StpBIzMGjrqLGgUvZAVHcZw&oe=66DAE048
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 298 & 301
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_502490145672094_1877170876402148790_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3MiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo5NzgwNDgwNTA3NjQ3OTd9&_nc_ohc=Kj08IDkWtVQQ7kNvgH21PXW&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDg6sTEUqdrjc9o445sTtYkQwz09zEUs_LTWvsfsLk0IQ&oe=66DAF882
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 282 & 283
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_997864321832683_7248396979629652702_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQwMSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozNjczMTgzNTk0NDAyNDl9&_nc_ohc=XSmvQOGs6WQQ7kNvgGs8iHi&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCCXBqmJrGghNsZfKweS_lbQ2Ey0xXcSQNXpErqMqx4PA&oe=66DAE034
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 278 279 280 281
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_499005705963573_3288564360700190832_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM0MywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozOTA2OTgxMjM1NTc3MzF9&_nc_ohc=yz4kDo8Nc30Q7kNvgGOQY6g&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBTWQVCj0i7wqH1z5jnyW_v7bkXJL7r79f3swGuTFNS8g&oe=66DB0926
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 276 277
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1023235222673244_2247421298468798779_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQxNCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNzI1ODQzMzM4MTYzOTk0fQ%3D%3D&_nc_ohc=UduhrH_8jXYQ7kNvgE8qkSr&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCzl6fn8mYAL3tg-i65cVsMXDoExq0LlmFGHSOhbLfwdw&oe=66DAF3E4
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 275 276
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/450308759_1021128929488381_8532257779078901918_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM5MCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNzQxNDcwMTc5OTM5ODkyfQ%3D%3D&_nc_ohc=D6Xtj1m__5MQ7kNvgHO0IEM&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBiUctPjowTMP5igdIlY-mELxXQgnyX7L1U_hoSeXFT5A&oe=66DB0420
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  245 & 246
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1229688274863573_7617524260770633541_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM1NiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozNDAxMjIzNjU4MDQyOTV9&_nc_ohc=5I8ZT3rxvVcQ7kNvgEm7Kjo&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBCGO6PoxONqs63iuYhj8ky_tiIteT-yzmYUJpjC6WbFw&oe=66DB094E
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  221 222 223 224
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1195365414975147_88874877425880831_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM2MCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo0NjA1NjU5MDAyNDg4NjZ9&_nc_ohc=EQip7vpO0OgQ7kNvgFsOkwX&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCbGkuCtXJW-bAWkVZ4aZwf5t_WrGMShmCvp3I9PX2YBw&oe=66DB0748
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  209 210 211 212
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1146134606600535_8727079402415936947_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQxOSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxODg3NzkyNjM4MzAxMTM2fQ%3D%3D&_nc_ohc=975nui_YADIQ7kNvgEeH430&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBoLjp58VFCbpUbY8tDf45xFtsdUK50UHnQm7yltO2Rcw&oe=66DAE6E9
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  198 199 200 201
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_836792874589745_52237253320637805_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjMxMSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTUyOTA4MTU1OTc3MjQxfQ%3D%3D&_nc_ohc=3-Z48lk355cQ7kNvgEX9t75&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDyLghhzELcSAOBkCOE2avzIfNcRW3kPFX7Z38IO8Ltjg&oe=66DAFCBF
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  183 184 185 186 187
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1651185475633768_8319632352006354359_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTc1MDcwMzQ2OTYyMzk0fQ%3D%3D&_nc_ohc=5mDHPba0TbkQ7kNvgEOQ5hB&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCO1hHuCigI3IlNi21vFSdPxiItTCfwnIO-OVwCtcDCXQ&oe=66DB13FD
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 179 180 181 182
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_495251806509807_3693524509107026626_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM0MywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNTIwNzkyNzYyMTc4NjM5fQ%3D%3D&_nc_ohc=eDoo_3vlmHMQ7kNvgFXyvm8&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDnucfyLQRD01ipSkRLUINVlYkO8pm-kWDY1l9fDG9Itw&oe=66DB1243
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 163 164 165 166
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_2772254439607070_640560997456795660_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTk5NTE2MjkxMjIwMTc2fQ%3D%3D&_nc_ohc=BU7F8y98bEQQ7kNvgHUTMlh&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAjNmq1d5PBt6TTM7YHyFjMtC9Rk44lUTNdZj7p1qHQxA&oe=66DAE651
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 159 160 161 162
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_508080101549067_6560832633097337725_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQxMiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo4MDEzMTIwODU0Mzk3NzR9&_nc_ohc=psSL5lZFV_cQ7kNvgEXStPK&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAgAueKLKyY0-Kev2DTDB8sFhGUjdpN3NHp6ZqyQlnq9A&oe=66DAE8D0
-
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 153 154 155 156
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 153 154 155 156
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_482466137790202_7947376870909550359_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM0MCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyMTI1NDg5MjQxMTUyNjc2fQ%3D%3D&_nc_ohc=vC_tATf7DZ0Q7kNvgHguntK&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDZ5q9QBeZjRMkNHZRmSX2mgjJJ_3BPUu_oVycW9t898A&oe=66DB058B
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",RX BLACK
-https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/451106539_1662183664615628_4602318494939153540_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ1NSwicmxhIjoyODk1LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo3OTcyODkxOTkxNTgxOTB9&_nc_ohc=kTz5M4a0BGkQ7kNvgFiel4k&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&_nc_gid=AwsEvR0MM3bKCjbK-5pWvR8&oh=00_AYAd6qUvbO5_P59wq3jfDPs6okezpbLGz7jUxTSk-LDeOA&oe=66DA4554
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 159 160 161 162
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_508080101549067_6560832633097337725_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQxMiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo4MDEzMTIwODU0Mzk3NzR9&_nc_ohc=psSL5lZFV_cQ7kNvgEXStPK&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAgAueKLKyY0-Kev2DTDB8sFhGUjdpN3NHp6ZqyQlnq9A&oe=66DAE8D0
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",BLACK ADAM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 163 164 165 166
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_2772254439607070_640560997456795660_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTk5NTE2MjkxMjIwMTc2fQ%3D%3D&_nc_ohc=BU7F8y98bEQQ7kNvgHUTMlh&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAjNmq1d5PBt6TTM7YHyFjMtC9Rk44lUTNdZj7p1qHQxA&oe=66DAE651
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 179 180 181 182
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_495251806509807_3693524509107026626_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM0MywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNTIwNzkyNzYyMTc4NjM5fQ%3D%3D&_nc_ohc=eDoo_3vlmHMQ7kNvgFXyvm8&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDnucfyLQRD01ipSkRLUINVlYkO8pm-kWDY1l9fDG9Itw&oe=66DB1243
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  183 184 185 186 187
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1651185475633768_8319632352006354359_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTc1MDcwMzQ2OTYyMzk0fQ%3D%3D&_nc_ohc=5mDHPba0TbkQ7kNvgEOQ5hB&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCO1hHuCigI3IlNi21vFSdPxiItTCfwnIO-OVwCtcDCXQ&oe=66DB13FD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  198 199 200 201
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_836792874589745_52237253320637805_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjMxMSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTUyOTA4MTU1OTc3MjQxfQ%3D%3D&_nc_ohc=3-Z48lk355cQ7kNvgEX9t75&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDyLghhzELcSAOBkCOE2avzIfNcRW3kPFX7Z38IO8Ltjg&oe=66DAFCBF
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  209 210 211 212
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1146134606600535_8727079402415936947_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQxOSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxODg3NzkyNjM4MzAxMTM2fQ%3D%3D&_nc_ohc=975nui_YADIQ7kNvgEeH430&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBoLjp58VFCbpUbY8tDf45xFtsdUK50UHnQm7yltO2Rcw&oe=66DAE6E9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  221 222 223 224
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1195365414975147_88874877425880831_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM2MCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo0NjA1NjU5MDAyNDg4NjZ9&_nc_ohc=EQip7vpO0OgQ7kNvgFsOkwX&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCbGkuCtXJW-bAWkVZ4aZwf5t_WrGMShmCvp3I9PX2YBw&oe=66DB0748
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 401 402 403 404
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_519718133793861_8428883649643040973_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM5OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNDMyMDM0NDc3NDg0Mzg0fQ%3D%3D&_nc_ohc=rDfR7-jiZG4Q7kNvgGQm_zQ&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCcvaGrqoJgZVy-_RifIKKeTsd9fn30t33ZdBI7aogdfw&oe=66DAFDDA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode  245 & 246
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1229688274863573_7617524260770633541_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM1NiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozNDAxMjIzNjU4MDQyOTV9&_nc_ohc=5I8ZT3rxvVcQ7kNvgEm7Kjo&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBCGO6PoxONqs63iuYhj8ky_tiIteT-yzmYUJpjC6WbFw&oe=66DB094E
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 275 276
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/450308759_1021128929488381_8532257779078901918_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM5MCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNzQxNDcwMTc5OTM5ODkyfQ%3D%3D&_nc_ohc=D6Xtj1m__5MQ7kNvgHO0IEM&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBiUctPjowTMP5igdIlY-mELxXQgnyX7L1U_hoSeXFT5A&oe=66DB0420
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 276 277
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1023235222673244_2247421298468798779_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQxNCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNzI1ODQzMzM4MTYzOTk0fQ%3D%3D&_nc_ohc=UduhrH_8jXYQ7kNvgE8qkSr&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCzl6fn8mYAL3tg-i65cVsMXDoExq0LlmFGHSOhbLfwdw&oe=66DAF3E4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 278 279 280 281
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_499005705963573_3288564360700190832_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM0MywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozOTA2OTgxMjM1NTc3MzF9&_nc_ohc=yz4kDo8Nc30Q7kNvgGOQY6g&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBTWQVCj0i7wqH1z5jnyW_v7bkXJL7r79f3swGuTFNS8g&oe=66DB0926
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 282 & 283
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_997864321832683_7248396979629652702_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQwMSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozNjczMTgzNTk0NDAyNDl9&_nc_ohc=XSmvQOGs6WQQ7kNvgGs8iHi&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCCXBqmJrGghNsZfKweS_lbQ2Ey0xXcSQNXpErqMqx4PA&oe=66DAE034
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 298 & 301
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_502490145672094_1877170876402148790_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3MiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo5NzgwNDgwNTA3NjQ3OTd9&_nc_ohc=Kj08IDkWtVQQ7kNvgH21PXW&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDg6sTEUqdrjc9o445sTtYkQwz09zEUs_LTWvsfsLk0IQ&oe=66DAF882
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 298 & 299
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_453457010844969_1105107001608425077_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ1NywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxNTM1OTQyMjgwMzI5Njg0fQ%3D%3D&_nc_ohc=-rO9K1P5t2gQ7kNvgE37RfF&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAGekz11-JF1v7VS6hzLm9StpBIzMGjrqLGgUvZAVHcZw&oe=66DAE048
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 300-302
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_795698526044403_599979870455523253_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ2OCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMDEzNTQ5Nzg2ODE5NDcwfQ%3D%3D&_nc_ohc=_Qsy-adUK2YQ7kNvgFiNJCh&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCxhdnfTD-DRzyMaOtARsh0ZqzMgdB3n6-YwmIvikej1w&oe=66DAEA64
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg" group-title="▶️  FILM DUB INDO  ▶️",Naruto Shippuden Episode 322 323 324
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_1545657863028894_7561662994218338308_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ1MywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMjA2NzExMjQwMzM0MTM3fQ%3D%3D&_nc_ohc=G5GqC9NOfXMQ7kNvgF1wf1y&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDVUZBHQYY4Wm_0BvgBUDLt5Ff6NmxCQMFJoaW5xHgw3w&oe=66DAEE8D
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Black_Adam_%28film%29_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",BLACK ADAM
 https://www.googleapis.com/drive/v3/files/1gGAJVhk0Dlf_wMV6fxtmwEwrUWjDiGk8?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",Spider-Man (2002
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ee/Alita_Battle_Angel_%282019_poster%29.png" group-title="▶️  FILM DUB INDO  ▶️",Alita : Battle Angel (2019)
+https://gdriveplayer.to/hlsplaylist.php?idhls=Sm1yNEFPVnRkWUJYS0hsdzloRG9PK0VEQ0lrZ0xvYUdqd0pYUjhqQk5zVDZFTG9hN2JrMGw5V0d2ckE0aHdqVw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Maleficent_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Maleficent (2014)
+https://www.googleapis.com/drive/v3/files/1_OifD3FBg8uTqA6nBbAhzFh_76qWdmyV?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/CaptainMarvelPoster2019.jpg" group-title="▶️  FILM DUB INDO  ▶️",CAPTAIN MARVEL (2019)
+https://www.googleapis.com/drive/v3/files/1bFX_fyGvdYFpcRTuE_9amPKCI7R7ZkQ7?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/70/Ironmanposter.JPG" group-title="▶️  FILM DUB INDO  ▶️",IRON MAN
+https://www.googleapis.com/drive/v3/files/1JHQVc4H75SBsB1ZDyK1hpD-JkYELQ1RY?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/Avengers_Endgame_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Avengers End Game
+https://www.googleapis.com/drive/v3/files/18EZQu8_iy4OvkrgV10ZyEXNK0dzBQq_S?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/95/GotG_Vol2_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Guardians of the Galaxy
+https://www.googleapis.com/drive/v3/files/1MrIYcUtoYM9FwQ3_rUqP2bMN8YlZo1zy?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Spiderman.JPG/1200px-Spiderman.JPG" group-title="▶️  FILM DUB INDO  ▶️",Spider-Man (2002)
 https://gdriveplayer.to/hlsplaylist.php?idhls=NWdhaDBIcGRPMTZEQ1cwT1BRQ3N3M1RxWm5DeVpNN3JKc2xldHBwYjJ4empWRXovcVc4N0xyZU9FKzBwOTAxbg==.m3u8
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",PENDEKAR RAJAWALI 1994
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/Spider-Man_2_Poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Spider-Man 2 (2004)
+https://www.googleapis.com/drive/v3/files/18qDDfJLcvjR8ED1sgKYQ4pVzNa6lHbTB?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/Spider-Man_3%2C_International_Poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Spider-Man 3 (2007)
+https://www.googleapis.com/drive/v3/files/1azz2d65ciUdeuYe1i3GZorBAcM-wHhL1?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ownsqt4NWFGirMiG2R94oz3EEElRoRDclhUdxy9m96EVjrJetcrl_IbB&s=10" group-title="▶️  FILM DUB INDO  ▶️",The Amazing Spider-Man 2 (2014)
+https://www.googleapis.com/drive/v3/files/1HipaCnHhiufZazsmfXvmj7KR7p0x7n44?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Rebel_moon_part1_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Rebel Moon – Part I (2024)
+https://s10.krakenfiles.com/video/uploads/04-08-2024/b8v5xPX7Fe/file.mp4?md5=wtZqmZovI13RmgifaIWTsQ&expires=1725482575
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Rebel_Moon_%E2%80%93_Part_Two_The_Scargiver_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Rebel Moon – Part II (2024)
+https://s6.krakenfiles.com/video/uploads/04-08-2024/sOuObkkTKV/file.mp4?md5=yBaDgA8gmRWf0-Cb_eRYOg&expires=1725482259
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dc/Pee_Mak_International_Poster.jpg/220px-Pee_Mak_International_Poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Pee Mak (2013)
+https://www.googleapis.com/drive/v3/files/1eEKhGcixQkUzZQHXZ4oRTtY303fW_vpq?alt=media&key=AIzaSyBFMFpXlK9xKpwcr2x9etwLUdKtyOwDWIc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9f/Million-dollar-crocodile.jpg" group-title="▶️  FILM DUB INDO  ▶️",The Million Dollar Crocodile (2012)
+https://gdriveplayer.to/hlsplaylist.php?idhls=Zit0Z3BZaW5pSGN5V3d5RE82Sk9xU2g3WG9kOEhSQ2gwTXJqcDNrS0lvR2JEL1YyMGpFcmpiVDl3TGdlV2xadQ==.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Black_Panther_Wakanda_Forever_poster.jpg" group-title="▶️  FILM DUB INDO  ▶️",Black Panther: Wakanda Forever (2022)
+https://gdriveplayer.to/hlsplaylist.php?idhls=STk5dVVVYlZOVzY5Y09GZ2wvanF2V1NrNmp3cWtPNzROL21sQmxqM0ZwTGtuYS9hM1lRZEdsSi9CZi8vbjJBZw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KungFuHustleHKposter.jpg" group-title="▶️  FILM DUB INDO  ▶️",Kungfu hustle
+https://h311he.cloudatacdn.com/u5kj7fsq5dd3sdgge536eyaxibky3efjvbsawqdzi2wzsotqmbprrmk5i4gq/oevqb13rjj~XtFfij4rhu?token=ngjztbh10d1vg8pnfzkotamr&expiry=1725453897778
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3H44rJQVhB5cv8EGgOCTCpKpD4ytK2f9IYIXr1NGYUWW_7ga2w0RaUgGw&s=10" group-title="▶️  FILM DUB INDO  ▶️",KSATRIA BAJA HITAM RX -BAYANGAN HITAM
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/451106539_1662183664615628_4602318494939153540_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ1NSwicmxhIjoyODk1LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo3OTcyODkxOTkxNTgxOTB9&_nc_ohc=kTz5M4a0BGkQ7kNvgFiel4k&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&_nc_gid=AwsEvR0MM3bKCjbK-5pWvR8&oh=00_AYAd6qUvbO5_P59wq3jfDPs6okezpbLGz7jUxTSk-LDeOA&oe=66DA4554
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3H44rJQVhB5cv8EGgOCTCpKpD4ytK2f9IYIXr1NGYUWW_7ga2w0RaUgGw&s=10" group-title="▶️  FILM DUB INDO  ▶️",KSATRIA BAJA HITAM RX - +9KSATRIA 1995
+https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/453500439_1229441765082041_224121088578055894_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjU1MCwicmxhIjozNjYwLCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MDk0NjY0MTE1ODk5MjB9&_nc_ohc=czuFb8ivUo0Q7kNvgHI9WWW&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYCd6GhFhMTnp05Fs8YZXkfWCBD7zcL4OLry8EBY2g2Frg&oe=66DD9713
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/The_Legend_of_the_Condor_Heroes_%281994_TV_series%29.jpg" group-title="▶️  FILM DUB INDO  ▶️",PENDEKAR RAJAWALI 1994
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.1790-2/10000000_429430549900749_3381994171169629544_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM4MSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMTI4MTI0MDE4MjM4MzY2fQ%3D%3D&_nc_ohc=wvg9Dg1P1EwQ7kNvgFoE9c5&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYArEXm5_zKKYg7XoQbRRYdvaDCHgtKdPy8KjV-RxZ6ggA&oe=66DA16BE
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJpF65L6NsAe6e9dPy5yBHS7ZGBREFNDQmsFRzu9Yi1osLFDMAaYStswc&s=10" group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 1
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_374633236227962_6043951830893854720_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjU1NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNDk1ODQ3NDU0NzI5MzR9&_nc_ohc=E1-SOfPgS2kQ7kNvgErBqFR&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDOZEyxip-UWkO4eTwV5ZgPdOGITHmMmiBSN2VE_A3_Hg&oe=66D63424
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJpF65L6NsAe6e9dPy5yBHS7ZGBREFNDQmsFRzu9Yi1osLFDMAaYStswc&s=10" group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 2
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_364511540578336_2200736024085135360_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ0NiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNDk2MjQ0NjIxMzU2Mjl9&_nc_ohc=0eRg30BFzGIQ7kNvgHHKT2R&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAAHuZuQNwhigpNG1mM-fTKq56Oc2TBl1_WV8B7LoxgpA&oe=66D624CD
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJpF65L6NsAe6e9dPy5yBHS7ZGBREFNDQmsFRzu9Yi1osLFDMAaYStswc&s=10" group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 5
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_1704260963016264_6177259292115075072_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3OSwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc2MDA4NjIwMDQ2NTN9&_nc_ohc=-hNA44WpqPIQ7kNvgGsexJS&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBgBSMe3Sdanvnrl9yCAKECzQa1io8rYMr3RMu_IeSasw&oe=66D629B2
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJpF65L6NsAe6e9dPy5yBHS7ZGBREFNDQmsFRzu9Yi1osLFDMAaYStswc&s=10" group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 6
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_527311607704684_5253250963040370688_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ0MiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc3OTMxMDUzMTg3NjJ9&_nc_ohc=L_4eTyE1qgMQ7kNvgG6Vi4Q&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYDmGazJV9NvlwvNVFvmZtK2FXqBjfiYKsyZjevBlI7q8w&oe=66D625A7
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJpF65L6NsAe6e9dPy5yBHS7ZGBREFNDQmsFRzu9Yi1osLFDMAaYStswc&s=10" group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 7
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_2110624409178881_1582456923272249344_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUwMCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc4Mjk0ODUzMTUxMjR9&_nc_ohc=kLx9ReGhdGoQ7kNvgEwAgE1&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYAWlEiAnBx7r4Iu8SbQXFJtpE_cTRVjJV8E9RsRC0qZ9w&oe=66D63C1F
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJpF65L6NsAe6e9dPy5yBHS7ZGBREFNDQmsFRzu9Yi1osLFDMAaYStswc&s=10" group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 8
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_968602396675978_3645527357051109376_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ2NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTc4NTA2MjE5Nzk2Nzd9&_nc_ohc=KPDXYI9KMYkQ7kNvgEryhYi&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYBla8xbwEA3UMD3UYduVEc-iKZacLnfhkvMaKw5pkucCA&oe=66D63535
 
-#EXTINF:-1, group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 11
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJpF65L6NsAe6e9dPy5yBHS7ZGBREFNDQmsFRzu9Yi1osLFDMAaYStswc&s=10" group-title="▶️  FILM DUB INDO  ▶️",The Return of the Condor Heroes eps 11
 https://video.fmdc1-1.fna.fbcdn.net/v/t42.9040-2/10000000_900286873442270_5104428198750322688_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjU3NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNTM4ODk5MzgzNzU3NDh9&_nc_ohc=-XVACg3shokQ7kNvgE8B3pk&_nc_rml=0&_nc_ht=video.fmdc1-1.fna&oh=00_AYA9jjwVy3aIaYX6S5lpNIUnNuMENzVD-gVYnoZ2Qss16A&oe=66D63744
+
 
 
 
