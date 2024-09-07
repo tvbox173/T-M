@@ -19,14 +19,14 @@ https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/inde
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
 ##EXTINF:-1 tvg-id="" group-title="⚽  LIVE BOLA  ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR
-#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-#http://iptvtree.net:8080/live/F14995/a84c0963/162138.ts
-#http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
-#https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
-#http://xtv.ooo:8080/321166661/52816191/350972
-#http://iptvtree.net:8080/F18819/6eb39c7d/162138
-#http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
-#http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+http://iptvtree.net:8080/live/F14995/a84c0963/162138.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
+http://xtv.ooo:8080/321166661/52816191/350972
+http://iptvtree.net:8080/F18819/6eb39c7d/162138
+http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
+http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
 
 ##EXTINF:-1 group-title="⚽  LIVE BOLA  ⚽" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 4
 #EXTVLCOPT:http-referrer=https://pisionx.pages.dev/
@@ -56,6 +56,15 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
 ##http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 ##http://iptvtree.net:8080/F18819/6eb39c7d/157591
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="🇮🇩  INDONESIA  🇮🇩",RCTI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+
 #EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/2.jpg",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -69,6 +78,15 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 $http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="🇮🇩  INDONESIA  🇮🇩",Indosiar
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/4.jpg",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
