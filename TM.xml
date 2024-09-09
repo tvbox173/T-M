@@ -57,10 +57,10 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/1.jpg",RCTI
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
-http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
-http://iptvtree.net:8080/F18819/6eb39c7d/157591
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.mpd
+#http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+#http://iptvtree.net:8080/F18819/6eb39c7d/157591
 
 #EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/2.jpg",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
