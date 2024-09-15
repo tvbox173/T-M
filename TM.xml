@@ -168,12 +168,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
-https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
-http://xtv.ooo:8080/321166661/52816191/350972
-http://iptvtree.net:8080/F18819/6eb39c7d/162138
-http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
-http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
+#http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+#https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
+#http://xtv.ooo:8080/321166661/52816191/350972
+#http://iptvtree.net:8080/F18819/6eb39c7d/162138
+#http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
+#http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
 
 #EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/4.jpg",INDOSIAR 2
 #EXTVLCOPT:http-referrer=https://pisionx.pages.dev/
