@@ -59,13 +59,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soc
 
 
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg" group-title="⚽  LIVE SPORT  ⚽", LIVE SPORT
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/PL.jpg" group-title="⚽  LIVE SPORT  ⚽", LIVE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg" group-title="⚽  LIVE SPORT  ⚽", LIVE SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/PL.jpg" group-title="⚽  LIVE SPORT  ⚽", LIVE SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
