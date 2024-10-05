@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/Ri.jpeg", INDO SPORT
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+##EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/Ri.jpeg", INDO SPORT
+##http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #http://iptvtree.net:8080/live/F14995/a84c0963/162138.ts
 #http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
 #https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
@@ -59,6 +59,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSport
 https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/PL.jpg" group-title="⚽  LIVE SPORT  ⚽",LIVE SPORT Premier League
+http://ktv.im:8080/12345678/87654321/1174
 http://471228061165886370.ofgd919.xyz:80/play/ja222880/f8NMPjyyuvAq/886370.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/PL.jpg" group-title="⚽  LIVE SPORT  ⚽",LIVE SPORT Premier Leaguee
