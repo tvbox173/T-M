@@ -42,6 +42,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports
  
 #EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg",Sportstars 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg",INDONESIA VS CHINA
+https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001728992346-0-0-32a3857414d2195c1fb22b0decece905
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
