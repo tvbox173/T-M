@@ -5,9 +5,9 @@
 
 
 
-#EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/Ri.jpeg", INDO SPORT
-http://xtv.ooo:8080/live/35588981/18988553/350972.ts
-http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
+##EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/Ri.jpeg", INDO SPORT
+#http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+#http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
 #https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001729691331-0-0-3f5e10e19035e795dd1f4441456d8916
 ##http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #http://iptvtree.net:8080/live/F14995/a84c0963/162138.ts
@@ -231,7 +231,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 
 #EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/5.jpg",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
