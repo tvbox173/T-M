@@ -178,7 +178,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=ts
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/1.jpg" group-title="🇮🇩  INDONESIA  🇮🇩",RCTI HD
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/1.jpg" group-title="🇮🇩  𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮  🇮🇩",RCTI HD
 #http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="🇮🇩  INDONESIA  🇮🇩",RCTI 2
