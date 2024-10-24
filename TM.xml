@@ -6,6 +6,7 @@
 
 
 ##EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/Ri.jpeg", INDO SPORT
+http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 #http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
 #https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001729691331-0-0-3f5e10e19035e795dd1f4441456d8916
 ##http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
@@ -39,6 +40,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 ##https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
 #EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg",Sportstars 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,6 +57,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/PL.jpg" group-title="⚽  LIVE SPORT  ⚽",LIVE SPORT Premier League
 http://ktv.im:8080/12345678/87654321/1174
