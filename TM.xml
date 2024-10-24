@@ -168,7 +168,7 @@ http://xtv.ooo:8080/kamran800/800kamran/238490
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="🇮🇩  𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/1.jpg",RCTI
+#EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/1.jpg",RCTI
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
 #http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
@@ -178,7 +178,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=ts
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/1.jpg" group-title="🇮🇩  𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮  🇮🇩",RCTI HD
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/1.jpg" group-title="🇮🇩  INDONESIA  🇮🇩",RCTI HD
 #http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="🇮🇩  INDONESIA  🇮🇩",RCTI 2
