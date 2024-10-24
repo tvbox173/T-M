@@ -42,7 +42,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar3/sa_hls/rcti-sportstar3.m3u8?c
 
 ##EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg",INDONESIA VS CHINA
 #https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001728992346-0-0-32a3857414d2195c1fb22b0decece905
