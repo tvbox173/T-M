@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/Ri.jpeg", INDO SPORT
-http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+##EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/Ri.jpeg", INDO SPORT
+#http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 #http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
 #https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001729691331-0-0-3f5e10e19035e795dd1f4441456d8916
 ##http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
@@ -20,17 +20,12 @@ http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 #https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001727703171-0-0-27a491523998afecfd19ae14c36265ea
 
 
-##EXTINF:-1  group-title="⚽  LIVE SPORT  ⚽" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg",Sportstars 1x
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
-
 #EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg",Sportstars 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 #https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 
@@ -47,6 +42,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar3/sa_hls/rcti-sportstar3.m3u8?c
 
 ##EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/BOL.jpeg",INDONESIA VS CHINA
 #https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001728992346-0-0-32a3857414d2195c1fb22b0decece905
