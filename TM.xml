@@ -146,7 +146,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 #EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-https://streamtape.xyz/get_video?id=gaVVBa4QzDCqjBb&expires=1730315817&ip=G15WKRAnDN&token=r29g-sqAlSnx&stream=1
+
 
 #EXTINF:-1 group-title="⚽  LIVE SPORT  ⚽" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/MTRR.jpg",LIVE MotorSports
 http://xtv.ooo:8080/kamran800/800kamran/238490
