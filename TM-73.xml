@@ -6077,6 +6077,11 @@ https://stream.hownetwork.xyz/yyy/drishyam-2-2022-webdl/3/480.m3u8
 #EXTINF:-1  group-title="🇮🇳 FILM INDIA 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Jab_Tak_Hai_Jaan_Poster.jpg", JAB TAK HAI JAAN(2012)
 https://stream.hownetwork.xyz/xxx/jab-tak-hai-jaan-2012-bluray/7/480.m3u8
 
+#EXTINF:-1  group-title="🇮🇳 FILM INDIA 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Josh_%282000_movie_poster%29.jpg/220px-Josh_%282000_movie_poster%29.jpg", JOSH (2000)
+#EXT-X-MEDIA:TYPE=SUBTITLES,DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI=https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/subb.josh.2000.srt
+https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/sh1psjm6am1384wpxw4bdbnchswbdqepkwi5d
+https://stream.hownetwork.xyz/yyy/josh-2000-dvdrip_X_e71f0821/18/480.m3u8
+
 
 
 ########### FILM THAILAND ###########
