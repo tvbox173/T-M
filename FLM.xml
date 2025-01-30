@@ -1,34 +1,6 @@
 #EXTM3U
 
 
-################ CCTV Online Pengadilan Agama ##############
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",PTSP GORONTALO
-https://gto.cctvbadilag.my.id:5443/307250PAGORONTALO/streams/060609987786788385412400.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",RUANG TUNGGU SIDANG GORONTALO
-https://gto.cctvbadilag.my.id:5443/307250PAGORONTALO/streams/542300012513112252128789.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",HALAMAN PARKIR GORONTALO
-https://gto.cctvbadilag.my.id:5443/307250PAGORONTALO/streams/715296080165678166523442.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",PTSP KOTAMOBAGU
-https://mdo1.cctvbadilag.my.id:5443/307232PAKOTAMOBAGU/streams/854715795405866861401403.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",RUANG TUNGGU SIDANG KOTAMOBAGU
-https://mdo1.cctvbadilag.my.id:5443/307232PAKOTAMOBAGU/streams/177845418946441692252752.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",HALAMAN PARKIR KOTAMOBAGU
-https://mdo1.cctvbadilag.my.id:5443/307232PAKOTAMOBAGU/streams/615506948645833808746441.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",PTSP MANADO
-https://mdo1.cctvbadilag.my.id:5443/307225PAMANADO/streams/688313293066621054624631.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",RUANG TUNGGU SIDANG MANADO
-https://mdo1.cctvbadilag.my.id:5443/307225PAMANADO/streams/730522442221664230296159.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGTlFj4rgzzmGET3Re55S2lcgNCzUVwZEEg&usqp=CAU" group-title="CCTV Online Pengadilan Agama",HALAMAN PARKIR MANADO
-https://mdo1.cctvbadilag.my.id:5443/307225PAMANADO/streams/562415556823483140804222.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/5/56/Koyla.jpg" group-title="▶️  FILM INDIA  ▶️",Koyla (1997)
 https://stream.hownetwork.xyz/yyy/koyla-1997-dvdrip_X_0b56f564/21/480.m3u8
 
