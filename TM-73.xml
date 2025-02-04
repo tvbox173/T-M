@@ -212,7 +212,7 @@ $http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 ##EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/4.jpg",INDOSIAR X
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -232,7 +232,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 #https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+#http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 
 #EXTINF:-1 group-title="🇮🇩  INDONESIA  🇮🇩" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/main/5.jpg",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
