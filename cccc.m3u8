@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=426x240
-output_240p.mp4
+http://xtv.ooo:8080/live/danyear12/am809100/350997_output_240p.ts
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480
-output_480p.mp4
+http://xtv.ooo:8080/live/danyear12/am809100/350997_output_480p.ts
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-output_720p.mp4
+http://xtv.ooo:8080/live/danyear12/am809100/350997_output_720p.ts
